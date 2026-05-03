@@ -47,19 +47,19 @@ Este projeto foi construído para colocar em prática conceitos fundamentais de 
 
 ### Passo 1: Configurar o Backend
 1. No terminal, instale as bibliotecas necessárias:
-    pip install flask flask-sqlalchemy flask-cors requests
+*   pip install flask flask-sqlalchemy flask-cors requests
    
 2. Inicie o servidor Python:
-    python app.py
+*   python app.py
 
 ### Passo 2: Configurar o Frontend
 1. Em um novo terminal, entre na pasta do frontend:
-    cd frontend
+*   cd frontend
 
 2. Instale as dependências:
-    npm install
+*   npm install
 
 3. Inicie a aplicação:
-    npm run dev
+*   npm run dev
 
 Desenvolvido por Ramon - Portfólio de Programação 2026

@@ -2,7 +2,7 @@
 
 # 🌤️ Weather Dashboard with History (Full Stack)
 
-This project is a complete weather monitoring system. It allows users to search for real-time weather in any city in the world, stores these queries in a SQL database, and displays an organized history of the latest searches.
+This project is a simple weather monitoring system. It allows users to search for real-time weather in any city, stores these queries in a SQL database, and displays an organized history of the latest searches.
 
 ## 📸 Project Demonstration
 
@@ -64,6 +64,17 @@ This project was built to put fundamental software engineering concepts into pra
 3. Start the application:
 - `npm run dev`
 
+  ## 🏁 Final Considerations
+
+This project was developed strictly for educational purposes. It is a simplified application where the main goal was to consolidate knowledge regarding **API architecture** and **Backend** data flow.
+
+While the interface is fully functional, the core focus of this training was:
+*   Mastering the `requests` library for external data consumption.
+*   Understanding how an ORM (`SQLAlchemy`) works to manage SQL databases.
+*   Practicing asynchronous communication between the Frontend (React) and the Backend (Python).
+
+This project represents a significant milestone in my Full Stack development studies, serving as a solid foundation for more robust and complex future projects.
+
 Developed by [Ramon](https://github.com/Ramon-Leandro) - 2026 Programming Portfolio
 
 
@@ -71,7 +82,7 @@ Developed by [Ramon](https://github.com/Ramon-Leandro) - 2026 Programming Portfo
 
 # 🌤️ Dashboard de Clima com Histórico (Full Stack)
 
-Este projeto é um sistema completo de monitoramento meteorológico. Ele permite que o usuário pesquise o clima em tempo real de qualquer cidade do mundo, armazena essa consulta em um banco de dados SQL e exibe um histórico organizado das últimas buscas.
+Este projeto é um sistema simples de monitoramento meteorológico. Ele permite que o usuário pesquise o clima em tempo real de qualquer cidade, armazena essa consulta em um banco de dados SQL e exibe um histórico organizado das últimas buscas.
 
 ## 📸 Demonstração do Projeto
 
@@ -132,5 +143,16 @@ Este projeto foi construído para colocar em prática conceitos fundamentais de 
 
 3. Inicie a aplicação:
 - `npm run dev`
+
+## 🏁 Considerações Finais
+
+Este projeto foi desenvolvido com fins estritamente didáticos. Trata-se de uma aplicação simplificada onde o objetivo principal foi consolidar conhecimentos sobre a **arquitetura de APIs** e o fluxo de dados no **Backend**.
+
+Embora a interface seja funcional, o foco total deste treinamento foi:
+*   Dominar a biblioteca `requests` para consumo de dados externos.
+*   Entender o funcionamento de um ORM (`SQLAlchemy`) para gerenciar bancos de dados SQL.
+*   Praticar a comunicação assíncrona entre o Frontend (React) e o Backend (Python).
+
+Este trabalho representa um marco importante nos meus estudos de desenvolvimento Full Stack, servindo como base sólida para projetos futuros mais robustos e complexos.
 
 Desenvolvido por [Ramon](https://github.com/Ramon-Leandro) - Portfólio de Programação 2026
